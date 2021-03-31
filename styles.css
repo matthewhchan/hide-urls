@@ -1,0 +1,8 @@
+.CodeMirror-line .cm-string.cm-url {
+    font-size: 75%;
+    vertical-align: top;
+}
+
+div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-string.cm-url {
+    display: none;
+}
