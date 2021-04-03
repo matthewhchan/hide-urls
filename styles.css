@@ -4,5 +4,5 @@
 }
 
 div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-string.cm-url {
-    display: none;
+    font-size: 0;
 }
